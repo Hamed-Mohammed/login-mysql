@@ -1,0 +1,6 @@
+Database name : DBhmd
+Table name: hw2log
+
+id-username-password
+1-Hamed Mohammed - 12345678
+2-Ali            - 11112222 	

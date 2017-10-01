@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(90deg,darkcyan,transparent);
+   
+    margin: 0px;
+    font-family: 'FranchiseRegular','Arial Narrow',Arial,sans-serif;
+
+}
+hr{
+    width: 200px;
+    height: 2px;
+    color: rgb(6, 106, 117);
+
+
+
+}
+.ff{
+    text-align: center;
+    margin: 50px;
+    width: 300px;
+    padding: 20px;
+    font-family: 'FranchiseRegular','Arial Narrow',Arial,sans-serif;
+    font-size: 20px;
+
+    border: 4px solid;
+    border-radius: 20px;
+    color: rgb(150, 50, 50);
+    background: linear-gradient(180deg,honeydew,transparent,cornsilk);
+
+
+
+}
+
+.w{
+    font-size: 100px;
+    color: rgb(300, 55, 50);
+    padding: 20px 0 10px 0;
+    margin: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.text{
+    font-size: 36px;
+    color: darkgreen;
+    padding: 2px 0 10px 0;
+
+    font-weight: bold;
+    text-align: center;
+}
+a{
+   
+    text-align: center;
+    background:rgb(300, 55, 50);;
+    font-size: 25px;
+    display: inline;
+    border: solid 2px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+a:hover {
+    background-color: skyblue;
+    color: #000000;
+    transition: 1s all;
+}
